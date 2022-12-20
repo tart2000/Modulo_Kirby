@@ -1,0 +1,51 @@
+Title: FAQ
+
+----
+
+Text: If you can't find the answer to your question, please write to us (contact@modulo.io).
+
+----
+
+Faq:
+
+- 
+  question: "Do I need a credit card to register?"
+  answer: "No, you can make an account and start using Modulo directly. Modulo will never ask you for your credit card in the free use."
+- 
+  question: >
+    How does the billing work for teams?
+  answer: "As soon as you create a team, an invoice is sent to you corresponding to one year of use (12 months). You then pay this invoice online or by bank transfer and can use the team mode for one year."
+- 
+  question: "What happens to my personal account when I create a team?"
+  answer: "Your personal account will continue to function as before. You will also have access to a 'team' view and you can switch between them. You will also be able to transfer events and modules of your choice to the team of your choice. And you will be able to continue to do events outside of the team."
+- 
+  question: "Can I be in more than one team at a time?"
+  answer: "Yes, you can be in as many teams as you want. Then just switch between teams as projects come up, without needing to log out."
+- 
+  question: "Can you collaborate with people outside the team when you have created a team?"
+  answer: "Yes, in the same way as in free mode, you can invite people 'by hand' on each of the events of your choice. But the team members see all the events created in the team and can thus join the ones they want in one click."
+- 
+  question: "Can I test the 'team' mode for free?"
+  answer: "No, that is not planned. You can see all the features offered by the team mode on the pricing page. As soon as you create a team, you will be charged by the number of people in the team."
+- 
+  question: >
+    Can NGOs or the public sector public sector benefit from discounts?
+  answer: >
+    Yes, we want to encourage users from public / para-public sector users. para-public sectors. If you think Modulo is the right tool for you, send us an email us an email and we will make you a proposal according to the size of your size of your team.
+- 
+  question: "What does 'publishing' a module mean?"
+  answer: "When a module is 'published', it is visible and usable by all Modulo users. It thus comes to feed a collaborative library of modules, allowing everyone to work better."
+- 
+  question: >
+    Who owns the modules I publish on publish on Modulo?
+  answer: "The modules you create belong to you and only to you. Those that you publish are visible and usable by all the users, but you remain the exclusive owner. Modulo has no rights on what is produced on the platform."
+- 
+  question: "Can we collaborate on a module?"
+  answer: "You can't collaborate on a module in free mode. The only way to collaborate on a module is to create a team, then transfer the module to the team. That way, all team members can collaborate on it."
+- 
+  question: "Who is behind Modulo?"
+  answer: "Modulo is a project of POC studio, the collaborative prototyping workshop set up by Arthur Schmitt. With over 10 years of experience in facilitation, Arthur has organized and led hundreds of workshops and has always been frustrated by the tools available. That's why he created Modulo in early 2022."
+- 
+  question: How long has Modulo been around?
+  answer: >
+    The first prototype of Modulo was created in January 2022 and made accessible shortly after. Many features have been features have been added since then since then, trying to meet the needs and ideas of the users.

@@ -1,0 +1,30 @@
+title: FAQ
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          text:
+            type: textarea
+            size: small
+          faq: 
+            label: FAQ
+            type: structure 
+            fields: 
+              question: 
+                type: text 
+              answer: 
+                type: textarea
+
+  sidebar:
+    width: 1/3
+    sections:
+      pages:
+        type: pages
+        template: default
+      files:
+        type: files
+

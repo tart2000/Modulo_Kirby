@@ -1,0 +1,52 @@
+Title: FAQ
+
+----
+
+Text: Si vous ne trouvez pas la réponse à vos questions, n'hésitez pas à nous écrire (contact@modulo.io).
+
+----
+
+Faq:
+
+- 
+  question: "Est-ce que j'ai besoin d'une carte de crédit pour m'inscrire ?"
+  answer: "Non, vous pouvez vous faire un compte et commencer à utiliser Modulo directement. Modulo ne vous demandera jamais votre carte de crédit dans l'utilisation gratuite."
+- 
+  question: >
+    Comment marche la facturation pour les équipes ?
+  answer: "Dès que vous créez une équipe, une facture vous est envoyée correspondant à un an d'utilisation (12 mois). Vous réglez ensuite cette facture en ligne ou par virement et pouvez utiliser le mode équipe pendant un an."
+- 
+  question: "Qu'est-ce qui arrive à mon compte personnel quand je crée une équipe ?"
+  answer: "Votre compte personnel continue de fonctionner comme avant. Vous aurez accès en plus à une vue 'équipe' et vous pourrez basculer de l'une à l'autre. Vous pourrez aussi transférer les événements et modules de votre choix vers l'équipe de votre choix. Et vous pourrez continuer à faire des événements en dehors de l'équipe."
+- 
+  question: "Est-ce que je peux être dans plus d'une équipe à la fois ?"
+  answer: "Oui, vous pouvez être dans autant d'équipes que vous voulez. Il suffit ensuite de basculer d'une équipe à l'autre en fonction des projets, sans avoir besoin de se déconnecter."
+- 
+  question: "Est-ce qu'on peut collaborer avec des gens en dehors de l'équipe quand on a créé une équipe ? "
+  answer: "Oui, de la même manière qu'en mode gratuit, vous pouvez inviter des gens 'à la main' sur chacun des événements de votre choix. Mais les membres de l'équipe voient tous les événements créés dans l'équipe et peuvent ainsi rejoindre ceux qu'ils veulent en un clic."
+- 
+  question: "Est-ce que je peux tester le mode 'équipe' gratuitement ?"
+  answer: "Non, ça n'est pas prévu. Vous pouvez voir toutes les fonctionnalités offertes par le mode équipe sur la page 'pricing'. Dès lors que vous créez une équipe, vous serez facturé au nombre de personnes dans l'équipe."
+- 
+  question: >
+    Est-ce que les associations ou le secteur public peut bénéficier de réductions ?
+  answer: >
+    Oui. Nous voulons encourager les utilisateurs des secteurs publics / para-publics. Si vous pensez que Modulo est le bon outil pour vous, envoyez-nous un mail et nous vous ferons une proposition en fonction de la taille de votre équipe.
+- 
+  question: "Que veut dire 'publier' un module ? "
+  answer: "Lorsqu'un module est 'publié', il est visible et utilisable par tous les utilisateurs de Modulo. Il vient ainsi nourrir une bibliothèque collaborative de modules, permettant à chacun de travailler mieux."
+- 
+  question: >
+    À qui appartiennent les modules que je publie sur Modulo ?
+  answer: "Les modules que vous créez vous appartiennent à vous et seulement à vous. Ceux que vous publiez sont visibles et utilisables par tous les utilisateurs, mais vous en restez le propriétaire exclusif. Modulo n'a aucun droits sur ce qui est produit sur la plateforme."
+- 
+  question: "Est-ce qu'on peut collaborer sur un module ? "
+  answer: "On ne peut pas collaborer sur un module en mode gratuit. Le seul moyen de collaborer sur un module est de créer une équipe, puis de transférer le module dans l'équipe. Ainsi, tous les membres de l'équipe peuvent collaborer dessus."
+- 
+  question: Qui est derrière Modulo ?
+  answer: "Modulo est un projet de POC studio, l'atelier de prototypage collaboratif monté par Arthur Schmitt. Avec plus de 10 ans d'expérience dans la facilitation, Arthur a organisé et animé des centaines d'ateliers et a toujours été frustré par les outils disponibles. C'est pourquoi il a créé Modulo début 2022."
+- 
+  question: Depuis quand est-ce que Modulo existe ?
+  answer: >
+    Le premier prototype de Modulo a été créé en janvier 2022 et rendu accessible peu après. De nombreuses fonctionnalités ont été ajoutées depuis, en tentant de répondre aux
+    envies et besoins des utilisateurs.

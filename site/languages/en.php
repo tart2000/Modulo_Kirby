@@ -41,6 +41,7 @@ return [
     'more' => 'Find out more',
     'all features' => 'View all features',
     'pages' => 'Pages',
-    'create_team' => 'Create team'
+    'create_team' => 'Create team',
+    'faqs' => 'Questions'
   ]
 ];

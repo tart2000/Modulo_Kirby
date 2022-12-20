@@ -24,6 +24,10 @@
         <a class="nav-link" href="<?= page('pricing')->url() ?>"><?= t('pricing') ?></a>
       </li>
 
+      <li class="nav-item <?= e($page->url() == page('faq')->url(), ' active') ?>">
+        <a class="nav-link" href="<?= page('faq')->url() ?>">FAQ</a>
+      </li>
+
       <!-- 
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
