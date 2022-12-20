@@ -1,0 +1,30 @@
+/* 
+/* 
+/*  custom.css
+/*
+/*  If not using Gulp and Sass, add your custom CSS below then include it
+/*  in your page by adding a reference to assets/css/custom.css in the head of each page.
+/*
+*/
+@media only screen and (max-width: 800px) {
+	.navbar-container {
+		background: #130f40;
+	}
+	#modulogo {
+		width: 150px;
+		
+	}
+}
+.gradient {
+	background-color: #21D4FD;
+	background-image: linear-gradient(130deg, #21D4FD 0%, #B721FF 100%);
+}
+.accordion {
+	margin-top: 1rem !important;
+}
+.logo {
+	filter: grayscale(1);
+}
+.logo-xl {
+	width: 10rem;
+}

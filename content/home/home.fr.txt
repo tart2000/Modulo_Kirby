@@ -1,0 +1,87 @@
+Lookintro: Vos déroulés ressemblent à ça ?
+
+----
+
+Textlook:
+
+Comme tout le monde, vous bricolez avec Google Spreadsheets ou Word...
+
+Cela a plusieurs limites :
+
+- Possibles erreurs de timing
+- Pas toujours lisible
+- Pas de fonctionnalités pendant / après l'événement
+- Pas pratique à imprimer ou partager
+- Pas d'intégration au reste des outils
+- Pas de capitalisation
+
+----
+
+Stepstitle: Un support pour toutes les étapes d'un atelier
+
+----
+
+Stepssubtitle: De la création du déroulé à partir de différentes séquences jusqu'à l'animation, Modulo cherche à faciliter le travail des facilitateurs.
+
+----
+
+Steps:
+
+- 
+  title: Construire son déroulé
+  detail: >
+    Préparer simplement son déroulé et
+    ses différentes séquences à
+    plusieurs, avec un calcul automatique
+  img: plan.png
+- 
+  title: Partager les informations
+  detail: >
+    Export sous de multiples formes (web,
+    print, consignes, todo, etc.)
+  img: share.png
+- 
+  title: Suivre en temps-réel
+  detail: >
+    Suivi des différentes séquences
+    pendant le workshop pour ajuster au
+    besoin
+  img: play.png
+
+----
+
+Caractintro1: Votre nouvel outil indispensable
+
+----
+
+Caractintro2: Pensé pour vous
+
+----
+
+Carac:
+
+- 
+  icon: add-user
+  color: blue
+  title: Collaboratif
+  detail: "Invitez toute votre équipe sur votre déroulé. Assignez des séquences et des tâches pour que chacun sache parfaitement ce qu'il a à faire. "
+- 
+  icon: tablet-mobile-combo
+  color: purple
+  title: Mobile
+  detail: "Emmenez votre déroulé partout dans votre poche avec la version mobile. Contrôlez votre timing pendant l'événement et suivez les dépassements. "
+- 
+  icon: shuffle
+  color: indigo
+  title: Versatile
+  detail: "Modulo s'adapte à toutes les pratiques de facilitation : formation, événementiel, ateliers de créativité,  ateliers à distance, hackathons, transformation interne, design sprint, méthodes agiles..."
+
+----
+
+Headerimg:
+
+- illus_hp.png
+
+----
+
+Text: 

@@ -1,0 +1,78 @@
+title: Home
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          pageSettings:
+            label: Page top
+            type: headline
+          lookintro: 
+            type: text
+          textlook:
+            type: textarea
+            size: small
+          pageSettings2: 
+            label: Steps
+            type: headline
+          stepstitle: 
+            label: Title
+            type: text
+          stepssubtitle: 
+            label: Subtitle
+            type: text 
+          steps:
+            type: structure
+            fields: 
+              title: 
+                type: text 
+              detail: 
+                type: text 
+              img: 
+                type: text
+          pageSettings3:
+            label: Caracteristics
+            type: headline
+          caractintro1: 
+            label: Small text
+            type: text
+          caractintro2:
+            label: Bigger text
+            type: text
+          carac:
+            label: Caracteristics
+            type: structure
+            fields:
+              icon:
+                label: Icone
+                type: text
+              color:
+                label: Color
+                type: text
+              title:
+                label: Title
+                type: text
+              detail:
+                label: Detail
+                type: text
+
+  sidebar:
+    width: 1/3
+    sections:
+      fields2: 
+        type: fields 
+        fields: 
+          headerimg: 
+            label: Header Image 
+            type: files
+            multiple: false 
+            max: 1 
+      pages:
+        type: pages
+        template: default
+      files:
+        type: files
+

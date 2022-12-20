@@ -1,0 +1,112 @@
+Title: Everything you need in one place
+
+----
+
+Text: Modulo is designed by and for facilitators and trainers. We add new features regularly. Don't hesitate to let us know if you have any ideas!
+
+----
+
+Features:
+
+- 
+  title: Collaboration
+  text: >
+    You can simply invite everyone you need
+    to work on your sessions.
+  cover:
+    - collaborer@2x-100.jpg
+- 
+  title: Masked sequences
+  text: >
+    Sequences can be masked to remove them
+    from timing calculations.
+  cover:
+    - masked@2x-100.jpg
+- 
+  title: Sub-sequences
+  text: >
+    You can create sub-sequences that can be
+    shown or not (folded).
+  cover:
+    - sub-seqs@2x-100.jpg
+- 
+  title: Sequence import
+  text: >
+    Search and add sequences you have
+    already created in previous events.
+  cover:
+    - import_seqs@2x-100.jpg
+- 
+  title: Detailed sequences
+  text: >
+    Add notes, guidelines, tools, links on
+    sequences. And even documents and todos
+    that can be assigned.
+  cover:
+    - seq_detail@2x-100.jpg
+- 
+  title: PDF export
+  text: >
+    Customize your PDF export and choose
+    what you want to appear and the level of
+    detail.
+  cover:
+    - pdf_export@2x-100.jpg
+- 
+  title: Commentaires
+  text: >
+    Chat with your team on each sequence.
+    Resolve comments to hide them.
+  cover:
+    - comments@2x-100.jpg
+- 
+  title: Personnalization
+  text: >
+    Create your own sequence formats and
+    types so they match your own practice.
+  cover:
+    - personnalization@2x-100.jpg
+- 
+  title: Modules
+  text: >
+    Create modules for groups of sequences
+    that you use regularly. Share them in a
+    collaborative library.
+  cover:
+    - plan-de-travail-9@2x-100.jpg
+- 
+  title: Profile
+  text: >
+    Show your work as a facilitator or
+    trainer on your own profile page.
+  cover:
+    - profile@2x-100.jpg
+- 
+  title: Team
+  text: >
+    The (paid) team mode helps you share
+    events and modules with your
+    collaborators.
+  cover:
+    - team@2x-100.jpg
+- 
+  title: Mobile view
+  text: >
+    The optimized mobile view allows you to
+    work on your events from anywhere,
+    whenever you want.
+  cover:
+    - mobile@2x-100.jpg
+- 
+  title: Real-time tracking
+  text: >
+    Track your timing in real-time from your
+    smartphone and stay on the same page
+    with your team.
+  cover:
+    - live@2x-100.jpg
+- 
+  title: Desktop real-time view
+  text: "Control your event's timing. Share the guidelines with your participants in a simplified view. "
+  cover:
+    - live_desktop@2x-100.jpg

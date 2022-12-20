@@ -1,0 +1,97 @@
+Title: Home
+
+----
+
+Lookintro: Do your session plans look like that?
+
+----
+
+Textlook:
+
+Just like everybody, you struggle with Google Spreadsheets or Word...
+
+This has many limits:
+
+- Possible timing errors
+- Not always readable
+- No functionnalities during / after the event
+- Not practical to print or share
+- No integration with the rest of your tools
+- No knowledge capitalization
+
+----
+
+Stepstitle: A tool for every step of your session
+
+----
+
+Stepssubtitle: From creating your session plan with different sequences to the session's animation, Modulo helps facilitators and trainers every step of the way.
+
+----
+
+Steps:
+
+- 
+  title: Plan your session
+  detail: >
+    Plan your session and its sequences
+    intuitively and collaboratively, with
+    automatic calculation
+  img: plan.png
+- 
+  title: Share the information
+  detail: >
+    Export your plan under different formats
+    (web, print, guidelines, todo, etc.)
+  img: share.png
+- 
+  title: Track in real-time
+  detail: >
+    Follow each sequence during your session
+    and adjust them if needed
+  img: play.png
+
+----
+
+Caractintro1: Your new must-have tool
+
+----
+
+Caractintro2: Built with you in mind
+
+----
+
+Carac:
+
+- 
+  icon: add-user
+  color: blue
+  title: Collaborative
+  detail: >
+    Invite all your team on you session.
+    Assign sequences and to-dos so that
+    everyone knows what to do.
+- 
+  icon: tablet-mobile-combo
+  color: purple
+  title: Mobile
+  detail: >
+    Take your session with you everywhere
+    with the mobile version. Follow your
+    timing during your event and control
+    your overtime.
+- 
+  icon: shuffle
+  color: indigo
+  title: Versatile
+  detail: 'Modulo fits your practice: facilitation, training, event organization, creativity workshops, remote sessions, hackathons, transformation, agile, design sprints...'
+
+----
+
+Headerimg:
+
+- illus_hp_en.png
+
+----
+
+Text: 

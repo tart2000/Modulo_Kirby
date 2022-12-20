@@ -1,0 +1,119 @@
+Title: Tout ce dont vous avez besoin
+
+----
+
+Text: Modulo est pensé par et pour les facilitateurs et les formateurs. Nous ajoutons des nouvelles fonctionnalités régulièrement. N'hésitez pas à nous en faire part si vous avez des idées !
+
+----
+
+Features:
+
+- 
+  title: Collaboration
+  text: >
+    Vous pouvez inviter simplement tous les
+    gens avec qui vous avez besoin de
+    travailler.
+  cover:
+    - collaborer@2x-100.jpg
+- 
+  title: Séquences masquées
+  text: "Masquer une séquence permet de ne pas la décompter dans la durée de l'événement."
+  cover:
+    - masked@2x-100.jpg
+- 
+  title: Sous-séquences
+  text: >
+    Vous pouvez créer des sous-séquences,
+    qui peuvent être montrées ou non.
+  cover:
+    - sub-seqs@2x-100.jpg
+- 
+  title: Import de séquences
+  text: "Recherchez et ajoutez des séquences déjà créées dans d'autres événements."
+  cover:
+    - import_seqs@2x-100.jpg
+- 
+  title: Séquences détaillées
+  text: >
+    Ajoutez des notes, consignes, outils,
+    liens sur les séquences. Et même des
+    documents ou des tâches que vous pouvez
+    assigner.
+  cover:
+    - seq_detail@2x-100.jpg
+- 
+  title: Export PDF
+  text: >
+    Personnalisez votre export PDF en
+    choisissant ce que vous voulez faire
+    apparaître en fonction du niveau de
+    détail recherché.
+  cover:
+    - pdf_export@2x-100.jpg
+- 
+  title: Commentaires
+  text: >
+    Discutez avec votre équipe sur chaque
+    séquence. Résolvez les commentaires
+    pour les masquer.
+  cover:
+    - comments@2x-100.jpg
+- 
+  title: Personnalisation
+  text: >
+    Créez les formats et types de
+    séquences qui correspondent à votre
+    pratique et donnez leur une couleur et
+    une icône.
+  cover:
+    - personnalization@2x-100.jpg
+- 
+  title: Modules
+  text: >
+    Créez des modules pour les groupes de
+    séquences que vous utilisez
+    régulièrement. Puis partagez les dans
+    la bibliothèque commune.
+  cover:
+    - plan-de-travail-9@2x-100.jpg
+- 
+  title: Profil
+  text: >
+    Mettez votre travail de facilitateur ou
+    de formateur en avant avec votre page de
+    profil.
+  cover:
+    - profile@2x-100.jpg
+- 
+  title: Équipe
+  text: >
+    Le mode équipe (payant), permet de
+    partager des événements et modules
+    avec vos proches collaborateurs.
+  cover:
+    - team@2x-100.jpg
+- 
+  title: Vue mobile
+  text: >
+    La vue optimisée mobile vous permet de
+    travailler sur vos déroulés où vous
+    voulez, quand vous voulez.
+  cover:
+    - mobile@2x-100.jpg
+- 
+  title: Suivi temps réel
+  text: >
+    Suivez votre déroulé en temps réel
+    depuis votre téléphone. Maîtrisez
+    votre timing.
+  cover:
+    - live@2x-100.jpg
+- 
+  title: Suivi sur ordinateur
+  text: >
+    Maîtrisez votre timing sur le bout des
+    doigts. Et partagez les consignes avec
+    les participants.
+  cover:
+    - live_desktop@2x-100.jpg

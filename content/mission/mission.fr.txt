@@ -1,0 +1,39 @@
+Title: Aider à concevoir le monde de demain
+
+----
+
+Head: Modulo est l'outil des facilitateurs et des formateurs qui accompagnent les transformations de notre monde.
+
+----
+
+Cover:
+
+- thecamp_cedrico_amft_atelier_35.jpg
+
+----
+
+Text:
+
+### Pourquoi
+
+Nous sommes convaincus que l’intelligence collective est un outil incontournable pour imaginer et concevoir des organisations (et plus largement, une société) plus résilientes, plus ouvertes, plus démocratiques, plus justes et plus créatives. Mais l’intelligence collective ne se décrète pas. Elle s’appuie sur des méthodes et des outils, et surtout, sur un changement de culture.
+
+Les acteurs de la facilitation sont souvent les vecteurs principaux pour accompagner ces transformations. Ces pratiques permettent d’embrasser la complexité, de se l’approprier et d’avancer collectivement. Elles peuvent servir à créer du consensus, de l’engagement, du désir autour d’une vision commune.
+
+Modulo veut être la boîte à outils des facilitateurs pour amplifier les dynamiques de transformation des organisations.
+
+### Comment
+
+Modulo est conçu depuis le début dans une approche ‘test & learn’ avec une première version rendue disponible en janvier 2022. Depuis, de nombreuses fonctionnalités ont été ajoutées (collaboration temps réel, commentaires, etc.) afin de répondre au mieux aux besoins des utilisateurs. Être à l’écoute de ce feedback régulier permet de concevoir un produit adopté et adapté.
+
+Nous souhaitons que Modulo reste un projet indépendant et autogéré. Nous voulons nous développer de manière soutenable, grâce au soutien des utilisateurs. Vous pouvez dès aujourd'hui supporter Modulo en choisissant le mode 'équipe' payant. 
+
+### Quoi
+
+Il y a presque autant d’approches de la facilitation qu’il y a de facilitateurs (formation, coaching, brainstorming, transformation interne, design sprint, agile, etc.) et Modulo œuvre à les outiller chacune.
+
+Sans prétendre être un ’outil ‘magique’ qui permet de se transformer instantanément en super-facilitateur, nous voulons que Modulo puisse aider les facilitateurs à développer leur pratique et à la diffuser dans les organisations.
+
+Le déroulé est au cœur de la facilitation et c’est pourquoi nous avons choisi de développer cette fonction en premier. Mais c’est un métier profondément collaboratif et nous voulons favoriser toutes les possibilités d’échange sur notre plateforme (travail à plusieurs, échange de bonnes pratiques, modules partagés, etc.).
+
+C’est en s’ouvrant de nouvelles pratiques, de nouvelles personnes, de nouveaux outils que chacun peut agir pour la transformation.

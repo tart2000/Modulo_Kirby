@@ -1,0 +1,39 @@
+Title: Help create the world of tomorrow
+
+----
+
+Head: Modulo is the tool for facilitators and trainers leading transformations
+
+----
+
+Cover:
+
+- thecamp_cedrico_amft_atelier_35.jpg
+
+----
+
+Text:
+
+### Why
+
+We are convinced that collective intelligence is an essential tool for imagining and designing organizations (and more broadly, societies) that are more resilient, more open, more democratic, more fair and more creative. But collective intelligence cannot be decreed. It is based on methods and tools, and above all, on a change of culture.
+
+Facilitators are often the main vectors for supporting these transformations. These practices make it possible to embrace complexity, to appropriate it and to identify a path forward collectively. They can be used to create consensus, commitment, desire around a common vision.
+
+Modulo wants to be the toolbox for facilitators to amplify the dynamics of organizational transformation.
+
+### How
+
+Modulo has been designed from the start in a 'test & learn' approach with a first version made available in January 2022. Since then, many features have been added (real-time collaboration, comments, etc.) in order to best meet the needs of users. Listening to this regular feedback makes it possible to design a product that is both adopted and adapted.
+
+We want Modulo to remain an independent and self-managed project. We want to grow in a sustainable way, with the support of users.
+
+### What
+
+There are almost as many facilitation approaches as there are facilitators (training, coaching, brainstorming, internal transformation, design sprint, agile, etc.) and Modulo aims to equip each one.
+
+Without claiming to be a 'magic' tool that allows you to instantly turn into a super-facilitator, we want Modulo to be able to help facilitators develop their practice and disseminate it in organizations.
+
+The sequence is at the heart of facilitation and that is why we chose to develop this function first. But it is a deeply collaborative profession and we want to promote all the possibilities of exchange on our platform (working with others, exchange of good practices, shared modules, etc.).
+
+It is by opening up to new practices, new people, new tools that everyone can act for transformation.

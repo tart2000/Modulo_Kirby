@@ -1,0 +1,48 @@
+<?php
+
+return [
+  'code' => 'fr',
+  'default' => true,
+  'direction' => 'ltr',
+  'locale' => 'fr_fr',
+  'name' => 'Français',
+  'url' => '/',
+  'translations' => [
+    'connexion' => 'Connexion',
+    'ou' => 'ou',
+    'inscription' => 'Inscription',
+    'commencer' => 'Commencer',
+    'projet_de' => 'Un projet de',
+    'member' => 'Membre',
+    'join_the_adventure' => "Rejoignez l'aventure, c'est gratuit !", 
+    'autre_monde' => 'Un autre monde est possible...',
+    'deja_utilise' => 'Déjà utilisé par les équipes de...',
+    'liens' => 'Liens',
+    'pricing' => 'Tarifs',
+    'subscription' => 'Abonnement',
+    'gratuit' => 'Gratuit',
+    'price' => 'Prix',
+    'for ever' => 'Pour toujours',
+    'equipe' => 'Équipe',
+    'user/month' => '/utilisateur/mois',
+    'includes' => 'inclus :',
+    'evts_illimités' => 'Événements illimités',
+    'collaboration' => 'Collaboration',
+    'modules_illimités' => 'Modules illimités',
+    'evts_partagés' => 'Événements partagés',
+    'templates_partagés' => 'Templates partagés',
+    'modules_partagés' => 'Modules partagés',
+    'princing_intro' => 'Une tarification simple',
+    'choose this plan' => 'Choisir ce plan',
+    'mission' => 'Mission',
+    'our mission' => 'Notre mission',
+    'contact us' => 'Contactez nous',
+    'cant find?' => 'Vous ne trouvez pas ce que vous voulez ?',
+    'features' => 'Fonctionnalités',
+    'more' => 'En savoir plus',
+    'all features' => 'Voir toutes les fonctionnalités',
+    'pages' => 'Pages',
+    'create_team' => 'Créer mon équipe'
+
+  ]
+];

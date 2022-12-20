@@ -1,0 +1,32 @@
+title: Features
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          text:
+            type: textarea
+            size: small
+          features:
+            type: structure
+            fields:
+              title:
+                type: text 
+              text: 
+                type: text 
+              cover: 
+                type: files
+                max: 1 
+
+  sidebar:
+    width: 1/3
+    sections:
+      pages:
+        type: pages
+        template: default
+      files:
+        type: files
+
