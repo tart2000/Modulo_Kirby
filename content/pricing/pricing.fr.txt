@@ -52,7 +52,7 @@ Thetable:
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: "Collaboration sur les modules"
+  text: Collaboration sur les modules
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
@@ -60,11 +60,11 @@ Thetable:
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: "Votre propre logo sur vos événements"
+  text: Votre propre logo sur vos événements
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: "Votre vocabulaire sur les séquences"
+  text: Votre vocabulaire sur les séquences
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
@@ -79,3 +79,178 @@ Thetable:
   text: Outils partagés
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: à venir
+
+----
+
+Testimonials:
+
+- 
+  name: Caroline Ferrier
+  stars: 5
+  pic:
+    - caroline.png
+  testtext: "Un très bon outil pour structurer un déroulé d'atelier et sur lequel on peut s'appuyer le jour j. Il est intuitif et complet, merci !"
+- 
+  name: Marie Compagnon
+  stars: 5
+  pic:
+    - marie.png
+  testtext: "J'utilise cet outil très régulièrement. C'est très bien pensé, facile d'utilisation. Bonne traçabilité de nos contenus. Merci beaucoup. Continuez!"
+- 
+  name: Denis Pansu
+  stars: 5
+  pic:
+    - denis.png
+  testtext: "Un outil pensé par un utilisateur donc astucieux et simple à utiliser ! Je recommande. Et en plus on est écouté quand on a des demandes ou des remarques d'usage."
+- 
+  name: Isabelle Fleury-Bernier
+  stars: 5
+  pic:
+    - isabelle.png
+  testtext: |
+    Excellente expérience de création de déroulés. Modulo  est très simple à utiliser : créer, modifier, annoter, illustrer !
+    Je recommande !
+- 
+  name: Anaïs Badonnel
+  stars: 5
+  pic:
+    - anais.png
+  testtext: "Excellent outil facile à prendre en main pour scénariser des formations ! Un bonheur d'intuitivité à utiliser et des améliorations constamment apportées !"
+- 
+  name: Mélanie Walter
+  stars: 5
+  pic:
+    - melanie.png
+  testtext: "Outil très bien pensé pour structurer un atelier d'intelligence collective, bravo c'est top !"
+- 
+  name: Selene Compomanes
+  stars: 5
+  pic:
+    - selene.png
+  testtext: "Tout simplement incontournable et génial. Depuis que je l'ai testé, j'y mets tous les déroulés. Merci beaucoup !!!"
+- 
+  name: Formation MRD
+  stars: 5
+  pic:
+    - mrd.png
+  testtext: "J'utilise Modulo depuis quelques mois et c'est ma belle découverte de 2022. Cet outil m'aide à scénariser mes vidéos, séquencer mes cours, regrouper toutes les infos utiles pour le déroulement des formations... et j'adore le voir évoluer au fil des semaines."
+- 
+  name: François Eygun
+  stars: 5
+  pic:
+    - francois.png
+  testtext: >
+    Super outil, très pratique et essentiel
+    pour une facilitation sans tension !
+- 
+  name: Jérémie Dupuis
+  stars: 5
+  pic:
+    - jeremie.png
+  testtext: "J'ai testé Modulo pour faciliter la création de l'agenda d'un atelier de Design Thinking,. C'est finalement en live que la flexibilité de l'outil m'a permis d'ajuster le timing en quelques secondes et finir dans les temps."
+- 
+  name: Yann Poirson
+  stars: 5
+  pic:
+    - yann.png
+  testtext: |
+    Modulo fait partie depuis presque un an de mes outils favoris et indispensables pour construire et animer des ateliers de formation, de facilitation...
+    Je le conseille sans hésiter !!
+- 
+  name: Lucie Gineste
+  stars: 5
+  pic:
+    - lucie.png
+  testtext: >
+    Outil génial. Je ne peux plus m’en
+    passer. Je recommande chaudement.
+- 
+  name: Pascaline Morel
+  stars: 5
+  pic:
+    - pascaline.png
+  testtext: |
+    Modulo a changé ma vie d'animatrice et de formatrice !
+    Fini les bricolages sur des tableurs pour créer des scénarios d'animation ! Les fonctionnalités de Modulo s'additionnent et sont toujours plus pratiques et ludiques. La première (celle de base) = pas besoin de recalculer les timings à chaque modification ou ajout d'une séquence... C'est magique !
+- 
+  name: Marie Nasr
+  stars: 5
+  pic:
+    - mariensr.png
+  testtext: "Modulo est un top outil pour préparer des déroulés d'ateliers.  C'est top que ce soit français, cocorico ! Et retour hyper rapide sur les remarques formulées ! Un chouette outil que je recommande ! …"
+- 
+  name: Karine Bressand
+  stars: 5
+  pic:
+    - karine.png
+  testtext: 'Modulo est devenu mon outil incontournable pour réaliser mes déroulés pédagogiques en répondant à mes attentes de : couleurs, visibilité, modularité. Merci'
+- 
+  name: Corinne Lapras
+  stars: 5
+  pic:
+    - coco.png
+  testtext: "Modulo m'apporte un grand confort dans la création de mes déroulés d'ateliers collaboratifs. J'adore la fonctionnalité qui permet de créer et utiliser sa propre bibliothèque de formats. Je suis passée en mode équipe pour échanger plus facilement avec mes partenaires. Modulo, c'est super pro !"
+- 
+  name: Rémi Tilmont
+  stars: 5
+  pic:
+    - remi.png
+  testtext: |
+    Il suffit de l’utiliser une fois pour se demander « Comment j’ai pu vivre sans !?
+    Extrêmement utile comme time manager pour des présentations, réunions, workshops qui ont un besoin de cadencement précis… mais aussi d’une capacité de s’adapter aux imprévus.
+- 
+  name: Florence Orillard
+  stars: 5
+  pic:
+    - flo.png
+  testtext: "Modulo est un outil indispensable et super intuitif pour construire des formats de travail propices à l'intelligence collective!"
+- 
+  name: Sonia Camus
+  stars: 5
+  pic:
+    - sonia.png
+  testtext: |
+    Facilitatrice, j'ai trouvé en modulo "THE" outil qu'il me fallait pour rédiger mes déroulés. Construire séquence par séquence, poser le temps, noter les consignes et le matériel, pouvoir voir les taches et le qui fait quoi.... avec des codes couleurs, les formats des séquences... Bref un outil aux petits oignons, qui ne cesse de s'améliorer dans le temps. Tout cela gratuit, avec une option payante pour une équipe afin de mutualiser nos déroulés. A tester tout de suite si ce n'est pas déjà fait :)
+- 
+  name: Vincent Guzzo
+  stars: 5
+  pic:
+    - vguzzo.png
+  testtext: "C'est beau, c'est propre et ça marche bien. Bravo"
+- 
+  name: Richard Carlier
+  stars: 5
+  pic:
+    - richard.png
+  testtext: "Une solution qui offre d'ores et déjà de vrais plus pour la forge de déroulés : à tester sans hésitation !"
+- 
+  name: Marion Leblanc
+  stars: 5
+  pic:
+    - marionl.png
+  testtext: "Top Hyper pratique pour les échanges à l'étape de la création des animations et Top pendant l'animation"
+- 
+  name: Daniel Kaplan
+  stars: 5
+  pic:
+    - dk.png
+  testtext: >
+    Super utile pour organiser des ateliers
+    !
+- 
+  name: Vincent Nicollet
+  stars: 5
+  pic:
+    - vince.png
+  testtext: >
+    Un outil juste indispensable pour ses
+    réunions, formations, ateliers... Bravo
+    !!!
+- 
+  name: Noémie Prot
+  stars: 5
+  pic:
+    - nono.png
+  testtext: >
+    Découvert sur LinkedIn, adopté, super
+    efficace et jolie ergo. Je recommande

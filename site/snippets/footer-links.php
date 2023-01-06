@@ -69,6 +69,9 @@
           <li>
             <a href="<?= page('features')->url() ?>" class="text-white"><?= t('features') ?></a>
           </li>
+          <li>
+            <a href="<?= page('faq')->url() ?>" class="text-white">FAQ</a>
+          </li>
         </ul>
       </div>
       <!--end of col-->

@@ -42,6 +42,7 @@ return [
     'all features' => 'View all features',
     'pages' => 'Pages',
     'create_team' => 'Create team',
-    'faqs' => 'Questions'
+    'faqs' => 'Questions',
+    'seemoretests' => 'See more testimonials'
   ]
 ];

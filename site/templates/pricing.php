@@ -75,6 +75,34 @@
 	</div>
 </section>
 
+<section id="testimonials">
+	<div class="container">
+	  <div class="row justify-content-center">
+	    <div class="col-12">
+			<div class="card-columns">
+				<?php foreach ($page->testimonials()->toStructure() as $test): ?>
+					<div class="card">
+					    <div class="card-body">
+					    	<div class="media pb-2">
+							  <img src="<?= $test->pic()->toFile()->url() ?>" class="mr-2" alt="avatar <?= $test->name() ?>" style="width: 45px;">
+							  <div class="media-body">
+							    <h5 class="card-title pb-0 mb-0"><?= $test->name() ?></h5>
+							    <i class="icon-star text-yellow"></i>
+							    <i class="icon-star text-yellow"></i>
+							    <i class="icon-star text-yellow"></i>
+							    <i class="icon-star text-yellow"></i>
+							    <i class="icon-star text-yellow"></i>
+							  </div>
+							</div>
+					      <p class="card-text"><?= $test->testtext() ?></p>
+					    </div>
+					 </div>
+				<?php endforeach ?>
+			</div>
+		</div>
+	  </div>
+	</div>
+</section>
 
 
 

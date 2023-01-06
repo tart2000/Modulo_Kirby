@@ -20,6 +20,20 @@ columns:
                 type: text 
               team: 
                 type: text 
+          testimonials: 
+            type: structure
+            fields: 
+              name: 
+                type: text 
+                width: 1/2 
+              stars:
+                type: number
+                width: 1/2
+              pic: 
+                type: files
+                max: 1 
+              testtext: 
+                type: textarea
   sidebar:
     width: 1/3
     sections:

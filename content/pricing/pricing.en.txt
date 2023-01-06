@@ -79,3 +79,177 @@ Thetable:
   text: Shared tools
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: coming
+
+----
+
+Testimonials:
+
+- 
+  name: Caroline Ferrier
+  stars: 5
+  pic:
+    - caroline.png
+  testtext: "A very good tool to structure a workshop and to rely on on the day. It is intuitive and complete, thank you!"
+- 
+  name: Marie Compagnon
+  stars: 5
+  pic:
+    - marie.png
+  testtext: "I use this tool very regularly. It is very well thought out and easy to use. Good traceability of our contents. Thanks a lot. Keep it up!"
+- 
+  name: Denis Pansu
+  stars: 5
+  pic:
+    - denis.png
+  testtext: "A tool thought by a user so clever and easy to use! I recommend it. And in addition we are listened to when we have requests or remarks of use."
+- 
+  name: Isabelle Fleury-Bernier
+  stars: 5
+  pic:
+    - isabelle.png
+  testtext: |
+    Excellent experience in creating scrolls. Modulo is very easy to use: create, modify, annotate, illustrate!
+    I recommend it!
+- 
+  name: Anaïs Badonnel
+  stars: 5
+  pic:
+    - anais.png
+  testtext: "Excellent and easy to use tool for training scripting! A joy of intuitiveness to use and constant improvements made!"
+- 
+  name: Mélanie Walter
+  stars: 5
+  pic:
+    - melanie.png
+  testtext: "Very well thought out tool to structure a collective intelligence workshop, bravo it's great!"
+- 
+  name: Selene Compomanes
+  stars: 5
+  pic:
+    - selene.png
+  testtext: "Simply unmissable and great. Since I tested it, I put all the scrolls on it. Thank you so much!!!"
+- 
+  name: MRD Training
+  stars: 5
+  pic:
+    - mrd.png
+  testtext: "I've been using Modulo for a few months now and it's my great discovery of 2022. This tool helps me to script my videos, sequence my courses, gather all the useful information for the course... and I love to see it evolve over the weeks."
+- 
+  name: François Eygun
+  stars: 5
+  pic:
+    - francois.png
+  testtext: "Great tool, very practical and essential for tension-free facilitation!""
+- 
+  name: Jérémie Dupuis
+  stars: 5
+  pic:
+    - jeremie.png
+  testtext: "I tested Modulo to facilitate the creation of the agenda for a Design Thinking workshop. It was finally live that the flexibility of the tool allowed me to adjust the timing in a few seconds and finish in time."
+- 
+  name: Yann Poirson
+  stars: 5
+  pic:
+    - yann.png
+  testtext: |
+    Modulo has been one of my favorite and indispensable tools for building and leading training and facilitation workshops for almost a year...
+    I recommend it without hesitation!
+- 
+  name: Lucie Gineste
+  stars: 5
+  pic:
+    - lucie.png
+  testtext: >
+    Great tool. I can't do without it anymore.
+    without it. I highly recommend it.
+- 
+  name: Pascaline Morel
+  stars: 5
+  pic:
+    - pascaline.png
+  testtext: |
+    Modulo has changed my life as an animator and trainer!
+    No more tinkering with spreadsheets to create animation scenarios! Modulo's functionalities add up and are always more practical and fun. The first one (the basic one) = no need to recalculate the timings each time a sequence is modified or added... It's magic!
+- 
+  name: Marie Nasr
+  stars: 5
+  pic:
+    - mariensr.png
+  testtext: "Modulo is a great tool for preparing workshop outlines.  It's great that it's French, congratulations! And very fast feedback on the comments made! A great tool that I recommend! ..."
+- 
+  name: Karine Bressand
+  stars: 5
+  pic:
+    - karine.png
+  testtext: "Modulo has become an essential tool for me to create my educational programs. It meets my expectations in terms of: colors, visibility, modularity. Thank you."
+- 
+  name: Corinne Lapras
+  stars: 5
+  pic:
+    - coco.png
+  testtext: "Modulo brings me great comfort in the creation of my collaborative workshops. I love the functionality that allows me to create and use my own library of formats. I have switched to team mode to exchange more easily with my partners. Modulo is super professional!"
+- 
+  name: Rémi Tilmont
+  stars: 5
+  pic:
+    - remi.png
+  testtext: |
+    You only have to use it once to ask yourself "How could I live without it!
+    Extremely useful as a time manager for presentations, meetings, workshops that need precise timing... but also the ability to adapt to unexpected events.
+- 
+  name: Florence Orillard
+  stars: 5
+  pic:
+    - flo.png
+  testtext: "Modulo is an indispensable and super intuitive tool to build work formats conducive to collective intelligence!"
+- 
+  name: Sonia Camus
+  stars: 5
+  pic:
+    - sonia.png
+  testtext: |
+    Facilitator, I found in modulo "THE" tool I needed to write my lesson plans. To build sequence by sequence, to set the time, to note the instructions and the material, to be able to see the tasks and the who does what.... with color codes, the formats of the sequences... In short, this is a tool that is made to order, and that continues to improve over time. All this for free, with a paying option for a team in order to share our workflows. To be tested right away if it is not already done :)
+- 
+  name: Vincent Guzzo
+  stars: 5
+  pic:
+    - vguzzo.png
+  testtext: "It's beautiful, it's clean and it works well. Well done!"
+- 
+  name: Richard Carlier
+  stars: 5
+  pic:
+    - richard.png
+  testtext: "A solution that already offers real pluses for building scenarios: to be tested without hesitation!"
+- 
+  name: Marion Leblanc
+  stars: 5
+  pic:
+    - marionl.png
+  testtext: "Top Hyper practical for the exchanges at the stage of the creation of the animations and Top during the animation"
+- 
+  name: Daniel Kaplan
+  stars: 5
+  pic:
+    - dk.png
+  testtext: >
+    Super useful to organize workshops
+    !
+- 
+  name: Vincent Nicollet
+  stars: 5
+  pic:
+    - vince.png
+  testtext: >
+    A tool that is just indispensable for its
+    meetings, trainings, workshops... Bravo
+    !!!
+- 
+  name: Noémie Prot
+  stars: 5
+  pic:
+    - nono.png
+  testtext: >
+    Discovered on LinkedIn, adopted, super
+    effective and pretty UI. I recommend
+

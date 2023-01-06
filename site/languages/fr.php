@@ -43,7 +43,8 @@ return [
     'all features' => 'Voir toutes les fonctionnalités',
     'pages' => 'Pages',
     'create_team' => 'Créer mon équipe',
-    'faqs' => 'Questions'
+    'faqs' => 'Questions',
+    'seemoretests' => 'Voir plus de témoignages'
 
   ]
 ];

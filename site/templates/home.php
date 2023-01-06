@@ -317,38 +317,35 @@
       </div>
       <!--end of row-->
 
-      <?php if ($kirby->language()->code() == 'fr') : ?>
-	      <div class="row justify-content-center">
-
-	        <div class="col-12 col-md-6 col-lg-5">
-	          <div class="media">
-	            <img alt="Image" src="<?= kirby()->urls()->assets() ?>/img/damien.jpg" class="avatar" />
-	            <div class="media-body">
-	              <p class="mb-1">
-	                “Je viens d'utiliser Modulo sur une formation en visio d'1h30 et j'ai hâte de retrouver des ateliers séminaires en présentiel pour en mesurer toute la puissance. Cet outil ne va plus me quitter !”
-	              </p>
-	              <small>Damien Roquel, <a href="https://www.brique24.fr/" target="_blank">Brique 24</a></small>
-	            </div>
-	          </div>
-	        </div>
-	        <!--end of col-->
-
-	        <div class="col-12 col-md-9 col-lg-7">
-	          <div class="media">
-	            <img alt="Image" src="<?= kirby()->urls()->assets() ?>/img/vincent.png" class="avatar" />
-	            <div class="media-body">
-	              <p class="mb-1">
-	                “Créer le design de son atelier ou de son séminaire sur Modulo, c’est d’abord accepter une évidence un peu désagréable : celle que jusque là, on faisait un peu n’importe quoi ! Depuis que j’ai un compte Modulo, je regarde avec dépit et tendresse les tableurs Excel illisibles qui croupissent dans le dossier «designs» de mon drive.”
-	              </p>
-	              <small>Vincent Nicollet, <a href="https://communlundi.fr/" target="_blank">Commun Lundi</a></small>
-	            </div>
-	          </div>
-	        </div>
-	        <!--end of col-->
-
-	      </div>
-	      <!--end of row-->
-	  <?php endif ?>
+      <div class="row justify-content-center">
+        <div class="col-12">
+          <div class="card-columns">
+          <?php foreach (page('pricing')->testimonials()->toStructure()->shuffle()->limit(3) as $test): ?>
+            <div class="card">
+                <div class="card-body">
+                  <div class="media pb-2">
+                  <img src="<?= $test->pic()->toFile()->url() ?>" class="mr-2" alt="avatar <?= $test->name() ?>" style="width: 45px;">
+                  <div class="media-body">
+                    <h5 class="card-title pb-0 mb-0"><?= $test->name() ?></h5>
+                    <i class="icon-star text-yellow"></i>
+                    <i class="icon-star text-yellow"></i>
+                    <i class="icon-star text-yellow"></i>
+                    <i class="icon-star text-yellow"></i>
+                    <i class="icon-star text-yellow"></i>
+                  </div>
+                </div>
+                  <p class="card-text"><?= $test->testtext() ?></p>
+                </div>
+             </div>
+          <?php endforeach ?>
+          </div>
+        </div>
+        <!-- end of col --> 
+        <div class="col-12 text-center mt-2">
+          <a href="<?= page('pricing')->url() ?>/#testimonials "><?= t('seemoretests') ?> →</a>
+        </div>
+      </div>
+      <!-- end of row --> 
     </div>
     <!--end of container-->
   </section>
