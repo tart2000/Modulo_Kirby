@@ -43,6 +43,14 @@ return [
     'pages' => 'Pages',
     'create_team' => 'Create team',
     'faqs' => 'Questions',
-    'seemoretests' => 'See more testimonials'
+    'seemoretests' => 'See more testimonials',
+    'terms' => 'Terms & conditions',
+    'mentions' => 'Legal mentions',
+    'cgu' => 'GCU',
+    'cgau' => 'GCRU',
+    'rgpd' => 'Personal data',
+    'partners' => 'Partners',
+    'cookies' => 'Cookies',
+    'no_cookies' => 'This website doesn\'t use any cookies 🍪' 
   ]
 ];

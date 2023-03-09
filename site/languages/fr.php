@@ -6,7 +6,6 @@ return [
   'direction' => 'ltr',
   'locale' => 'fr_fr',
   'name' => 'Français',
-  'url' => '/',
   'translations' => [
     'connexion' => 'Connexion',
     'ou' => 'ou',
@@ -44,7 +43,15 @@ return [
     'pages' => 'Pages',
     'create_team' => 'Créer mon équipe',
     'faqs' => 'Questions',
-    'seemoretests' => 'Voir plus de témoignages'
+    'seemoretests' => 'Voir plus de témoignages',
+    'terms' => 'Légal',
+    'mentions' => 'Mentions légales',
+    'cgu' => 'CGU',
+    'cgau' => 'CGAU',
+    'rgpd' => 'RGPD',
+    'partners' => 'Partenaires',
+    'cookies' => 'Cookies & traceurs',
+    'no_cookies' => 'Ce site n\'utilise aucun cookies ou traceurs 🍪'
 
   ]
 ];

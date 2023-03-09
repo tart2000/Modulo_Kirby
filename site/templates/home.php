@@ -358,10 +358,12 @@
 	    <div class="container" data-aos="fade-up">
 	      <div class="row justify-content-center">
 	        <div class="col-md-8 col-sm-10">
-	            <div class="embed-responsive embed-responsive-16by9 rounded">
-	              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dZSdxq6sPjE?rel=0" allowfullscreen></iframe>
-	            </div>
-	          <!--end of video cover-->
+            <div class="rounded">
+              <a href="https://youtu.be/dZSdxq6sPjE" target="_blank">
+                <img src="<?= kirby()->urls()->assets() ?>/img/yt.jpg" class="img-fluid rounded">
+              </a>
+            </div>
+
 	        </div>
 	        <!--end of col-->
 	      </div>
@@ -381,6 +383,18 @@
 	  <!--end of section-->
 	<?php endif ?>
   <!-- fin de la section réservée aux français --> 
+
+  <section class="bg-white pt-3 pb-3">
+      <div class="container" data-aos="fade-up">
+        <div class="row justify-content-center">
+          <div class="col-md-6">
+            <div class="alert alert-secondary mb-0" role="alert">
+              <?= t('no_cookies') ?>
+            </div>
+          </div>
+        </div>
+      </div>
+  </section>
 
   <?= snippet('footer-callout') ?>
 

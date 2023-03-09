@@ -76,6 +76,42 @@
       </div>
       <!--end of col-->
 
+      <div class="col-2">
+        <h5><?= t('terms') ?></h5>
+        <ul class="list-unstyled mt-4">
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=1-mentions" class="text-white" target="_blank"><?= t('mentions') ?></a>
+          </li>
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=2-cgu" class="text-white" target="_blank"><?= t('cgu') ?></a>
+          </li>
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=3-cgau" class="text-white" target="_blank"><?= t('cgau') ?></a>
+          </li>
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=4-confidentialite" class="text-white" target="_blank"><?= t('rgpd') ?></a>
+          </li>
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=5-partenaires" class="text-white" target="_blank"><?= t('partners') ?></a>
+          </li>
+          <li>
+            <a href="https://app.modulo.io/conditions?tab=6-cookies" class="text-white" target="_blank"><?= t('cookies') ?></a>
+          </li>
+        </ul>
+      </div>
+      <!--end of col-->
+
+      <div class="col-2">
+        <ul class="list-inline list-inline-large">
+          <li class="list-inline-item">
+            <a href="#">
+                <img alt="Image" class="img-fluid pt-5" style="width: 75px;" src="<?= kirby()->urls()->assets() ?>/img/made_in_france.png"/>
+              </a>
+          </li>
+        </ul>
+      </div>
+      <!--end of col-->
+
     </div>
     <!--end of row-->
   </div>

@@ -8,9 +8,8 @@
  * All config options: https://getkirby.com/docs/reference/system/options
  */
 return [
-    'debug' => true
-];
+    'debug' => true,
 
-return [
-    'languages' => true
+    'languages' => true,
+    'languages.detect' => true
 ];

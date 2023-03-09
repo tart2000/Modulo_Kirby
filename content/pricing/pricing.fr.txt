@@ -28,10 +28,6 @@ Thetable:
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: Export PDF
-  free: '<i class="icon-check text-green"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
   text: Ajout de documents
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
@@ -43,8 +39,12 @@ Thetable:
   text: 'Vue agenda '
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
-- 
-  text: URL personnalisées
+-  
+  text: Export PDF
+  free: '<i class="icon-check text-orange"></i>'
+  team: '<i class="icon-check text-green"></i>'
+-
+  text: URL d'événements personnalisées
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 

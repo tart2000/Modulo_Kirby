@@ -6,7 +6,7 @@
 /*  in your page by adding a reference to assets/css/custom.css in the head of each page.
 /*
 */
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
 	.navbar-container {
 		background: #130f40;
 	}

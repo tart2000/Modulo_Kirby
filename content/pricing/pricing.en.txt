@@ -28,10 +28,6 @@ Thetable:
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: PDF Export
-  free: '<i class="icon-check text-green"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
   text: Dcuments upload
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
@@ -44,7 +40,11 @@ Thetable:
   free: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: Custom URLs
+  text: PDF Export
+  free: '<i class="icon-check text-orange"></i>'
+  team: '<i class="icon-check text-green"></i>'
+- 
+  text: Custom event URLs
   free: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
