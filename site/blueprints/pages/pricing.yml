@@ -18,6 +18,8 @@ columns:
                 type: text 
               free: 
                 type: text 
+              pro: 
+                type: text
               team: 
                 type: text 
           testimonials: 

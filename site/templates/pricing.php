@@ -24,6 +24,9 @@
 	              <span class="h5"><?= t('gratuit') ?></span>
 	            </th>
 	            <th scope="col">
+	              <span class="h5">Pro</span>
+	            </th>
+	            <th scope="col">
 	              <span class="h5"><?= t('equipe') ?></span>
 	            </th>
 	          </tr>
@@ -36,6 +39,10 @@
 	              <span class="text-small"><?= t('for ever') ?></span>
 	            </td>
 	            <td>
+	              <span class="display-4">8€</span>
+	              <span class="text-small">TTC<?= t('/month') ?></span><br/>
+	            </td>
+	            <td>
 	              <span class="display-4">10€</span>
 	              <span class="text-small">HT<?= t('user/month') ?></span><br/>
 	            </td>
@@ -46,12 +53,19 @@
 		            <th scope="row"><?= $line->text() ?></th>
 		            <td><?= $line->free() ?>
 		            </td>
+		            <td><?= $line->pro() ?>
+		            </td>
 		            <td><?= $line->team() ?>
 		            </td>
 		          </tr>
 		      <?php endforeach ?>
 	          <tr>
 	            <th scope="row"></th>
+	            <td>
+	              <a class="btn btn-link" href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>">
+	              	<?= t('choose this plan') ?>		
+	              </a>
+	            </td>
 	            <td>
 	              <a class="btn btn-link" href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>">
 	              	<?= t('choose this plan') ?>		

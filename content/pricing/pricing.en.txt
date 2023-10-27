@@ -4,7 +4,7 @@ Title: Pricing
 
 Text:
 
-Modulo is free to use. Subscirbing helps support the future development of Modulo 🙏 
+Modulo is free to use. Subscirbing offers access to advanced features and helps support the future development of Modulo. 
 Discounts are available for NGOs and governemental organizations.
 
 ----
@@ -14,70 +14,87 @@ Thetable:
 - 
   text: Unlimited events
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Unlimited modules
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Real time collaboration
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Real time event time tracking
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Dcuments upload
   free: '<i class="icon-check text-green"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
-  text: Custom tags
-  free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Calendar view
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: PDF Export
-  free: '<i class="icon-check text-orange"></i>'
+  free: 'basic'
+  pro: 'custom'
+  team: 'custom'
+- 
+  text: Custom tags
+  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
+  text: AI assistant 
+  free: 'limited'
+  pro: 'unlimited'
+  team: 'unlimited'
+-
   text: Custom event URLs
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Team events
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Collaboration on modules
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Shared event templates
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Your own logo on events
   free: '<i class="icon-circle-with-cross text-red"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
-  text: Team vocabulary on sequences
-  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Shared folders
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Team activity feed
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: coming
 - 
   text: Shared tools
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: coming
 
 ----

@@ -236,7 +236,7 @@
   <section class="bg-light">
     <div class="container">
       <div class="row align-items-center justify-content-between section-intro">
-        <div class="col-12 col-lg-5 text-center text-lg-left section-intro">
+        <div class="col-12 col-lg-4 text-center text-lg-left section-intro">
           <span class="title-decorative"><?= t('pricing') ?></span>
           <h3 class="display-4"><?= t('princing_intro') ?></h3>
           <span class="lead">
@@ -244,13 +244,15 @@
           </span>
           <a href="<?= page('pricing')->url() ?>"><?= t('more') ?> →</a>
         </div>
-        <div class="col-12 col-lg-6 row no-gutters card-group">
-          <div class="card pricing card-lg bg-secondary col-lg-6">
+
+        <div class="col-12 col-lg-8 row no-gutters card-group">
+
+          <div class="card pricing card-lg bg-white col-lg-6">
             <div class="card-body">
               <h5><?= t('equipe') ?></h5>
               <span class="display-4">10€</span>
               <span class="text-small"><?= t('user/month') ?></span>
-              <span class="h5"><?= t('includes') ?></span>
+              <span class="h5 pt-1"><?= t('includes') ?></span>
               <ul class="list-unstyled">
                 <li>
                   <?= t('evts_partagés') ?>
@@ -261,8 +263,33 @@
                 <li>
                   <?= t('modules_partagés') ?>
                 </li>
+                <li>
+                  <?= t('custom PDF') ?>
+                </li>
+                <li> 
+                  <?= t('AI') ?>
+                </li>
               </ul>
-              <a href="https://app.modulo.io/create_team?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class="btn btn-lg btn-primary"><?= t('create_team') ?></a>
+            </div>
+          </div>
+
+          <div class="card pricing card-lg col-lg-6 bg-secondary">
+            <div class="card-body">
+              <h5>Pro</h5>
+              <span class="display-4">8€</span>
+              <span class="text-small"><?= t('/month') ?></span>
+              <span class="h5 pt-1"><?= t('includes') ?></span>
+              <ul class="list-unstyled">
+                <li>
+                  <?= t('custom labels') ?>
+                </li>
+                <li>
+                  <?= t('custom PDF') ?>
+                </li>
+                <li>
+                  <?= t('AI') ?>
+                </li>
+              </ul>
             </div>
           </div>
 
@@ -271,7 +298,7 @@
               <h5>Basic</h5>
               <span class="display-4"><?= t('gratuit') ?></span>
               <span class="text-small"><?= t('for ever') ?></span>
-              <span class="h5"><?= t('includes') ?></span>
+              <span class="h5 pt-1"><?= t('includes') ?></span>
               <ul class="list-unstyled">
                 <li>
                   <?= t('evts_illimités') ?>
@@ -283,7 +310,6 @@
                   <?= t('modules_illimités') ?>
                 </li>
               </ul>
-              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class="btn btn-lg btn-outline-primary"><?= t('inscription') ?></a>
             </div>
           </div>
 
@@ -299,17 +325,32 @@
         <div class="col-12 text-center">
           <h4 data-aos="fade-up"><?= t('deja_utilise') ?></h4>
           <ul class="list-inline list-inline-large">
-            <li class="list-inline-item" data-aos="fade-up" data-aos-delay="50">
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="50">
               <img alt="Logo EDF" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_edf.png" />
             </li>
-            <li class="list-inline-item" data-aos="fade-up" data-aos-delay="100">
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="100">
               <img alt="Logo Datactivist" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_datactivist.png" />
             </li>
-            <li class="list-inline-item" data-aos="fade-up" data-aos-delay="150">
-              <img alt="Logo Canopé" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_canope.png" />
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="150">
+              <img alt="Logo AEFE" class="logo" src="<?= kirby()->urls()->assets() ?>/img/aefe.png" />
             </li>
-            <li class="list-inline-item" data-aos="fade-up" data-aos-delay="200">
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="200">
               <img alt="Logo Sopra Steria" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_sopra.png" />
+            </li>
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="250">
+              <img alt="Logo Erasme" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_erasme.jpg" />
+            </li>
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="300">
+              <img alt="Logo CEC" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_CEC.png" />
+            </li>
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="350">
+              <img alt="Logo Arkéa" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_Arkea.png" />
+            </li>
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="400">
+              <img alt="Logo Unige" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_unige.png" />
+            </li>
+            <li class="list-inline-item mb-4" data-aos="fade-up" data-aos-delay="400">
+              <img alt="Logo Eurométropole Metz" class="logo" src="<?= kirby()->urls()->assets() ?>/img/logo_Metz.png" />
             </li>
           </ul>
         </div>

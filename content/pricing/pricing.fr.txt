@@ -4,7 +4,7 @@ Title: Tarifs
 
 Text:
 
-Modulo est utilisable sans limite en version gratuite. S'abonner, c'est soutenir le développement futur de Modulo 🙏 
+Modulo est utilisable sans limite en version gratuite. La version payante offre des fonctionnalité avancées et permet de soutenir le développement futur de Modulo. 
 Des réductions sont possibles pour les associations et organismes gouvernementaux.
 
 ----
@@ -14,70 +14,92 @@ Thetable:
 - 
   text: Événements illimités
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Modules illimités
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Collaboration temps réel
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: "Suivi d'événement en temps réel"
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Ajout de documents
   free: '<i class="icon-check text-green"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
-  text: Étiquettes personnalisées
-  free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: 'Vue agenda '
   free: '<i class="icon-check text-green"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 -  
   text: Export PDF
-  free: '<i class="icon-check text-orange"></i>'
+  free: 'basique'
+  pro: 'sur mesure'
+  team: 'sur mesure'
+-  
+  text: Étiquettes personnalisées
+  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
+- 
+  text: Retour arrière
+  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
+  team: '<i class="icon-check text-green"></i>'
+- 
+  text: Assistant Intelligence Artificielle
+  free: 'limité'
+  pro: 'illimité'
+  team: 'illimité'
 -
   text: URL d'événements personnalisées
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: "Événements d'équipe"
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: Collaboration sur les modules
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: "Templates d'événements partagés"
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: Votre propre logo sur vos événements
+  text: "Votre propre logo sur vos événements"
   free: '<i class="icon-circle-with-cross text-red"></i>'
-  team: '<i class="icon-check text-green"></i>'
-- 
-  text: Votre vocabulaire sur les séquences
-  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: "Dossiers d'équipes"
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
   text: "Feed d'équipe"
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: à venir
 - 
   text: Outils partagés
   free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-circle-with-cross text-red"></i>'
   team: à venir
 
 ----
