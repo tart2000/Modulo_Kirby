@@ -32,7 +32,7 @@ Thetable:
   pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
 - 
-  text: Dcuments upload
+  text: Documents upload
   free: '<i class="icon-check text-green"></i>'
   pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'
@@ -48,6 +48,11 @@ Thetable:
   team: 'custom'
 - 
   text: Custom tags
+  free: '<i class="icon-circle-with-cross text-red"></i>'
+  pro: '<i class="icon-check text-green"></i>'
+  team: '<i class="icon-check text-green"></i>'
+- 
+  text: Modification history
   free: '<i class="icon-circle-with-cross text-red"></i>'
   pro: '<i class="icon-check text-green"></i>'
   team: '<i class="icon-check text-green"></i>'

@@ -40,7 +40,7 @@
 	            </td>
 	            <td>
 	              <span class="display-4">8€</span>
-	              <span class="text-small">TTC<?= t('/month') ?></span><br/>
+	              <span class="text-small">HT<?= t('/month') ?></span><br/>
 	            </td>
 	            <td>
 	              <span class="display-4">10€</span>

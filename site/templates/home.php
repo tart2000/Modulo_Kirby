@@ -5,7 +5,7 @@
     <div class="container-fluid">
       <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand logo-lg" href="index.html">
-          <img alt="Modulo Logo" id="modulogo" class="img-fluid" src="<?= kirby()->urls()->assets() ?>/img/Logo_Modulo_white.png" width="300" height="30"/>
+          <img alt="Modulo Logo" id="modulogo" class="img-fluid" src="<?= kirby()->urls()->assets() ?>/img/Modulo_logo_Squircle_w_texttext_white.png" width="300" height="30"/>
         </a>
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,9 +14,6 @@
       
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
           <ul class="navbar-nav">
-            <li class="nav-item mr-3">
-              <a href="#" class="nav-link">Beta</a>
-            </li>
             <li class="nav-item">
               <a href="<?= page('mission')->url() ?>" class="nav-link"><?= t('mission') ?></a>
             </li>
@@ -65,10 +62,11 @@
 
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class="text-white">
+              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=login" class="text-white">
               	<?= t('connexion')?>		
               </a>
-              <span>&nbsp;<?= t('ou')?>&nbsp;</span><a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class="text-white"> <?= t('inscription')?></a>
+              <span>&nbsp;<?= t('ou')?>&nbsp;</span>
+              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=signup" class="text-white"> <?= t('inscription')?></a>
             </li>
           </ul>
 

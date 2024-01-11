@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
   <a class="navbar-brand logo-sq" href="<?= $site->url() ?>">
-    <img src="<?= kirby()->urls()->assets() ?>/img/logo_modulo_1.png" width="30" height="30">
+    <img src="<?= kirby()->urls()->assets() ?>/img/Logo_Modulo_squricle.png" width="30" height="30">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -50,10 +50,13 @@
     </ul>
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class="">
+        <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=login" class="">
           <?= t('connexion')?>    
         </a>
-        <span>&nbsp;<?= t('ou')?>&nbsp;</span><a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>" class=""> <?= t('inscription')?></a>
+        <span>&nbsp;<?= t('ou')?>&nbsp;</span>
+        <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=signup" class=""> 
+          <?= t('inscription')?>
+        </a>
       </li>
     </ul>
   </div>
