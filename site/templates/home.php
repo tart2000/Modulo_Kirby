@@ -1,17 +1,17 @@
 <?php snippet('header') ?>
-    
+
 <div class="navbar-container">
   <div class="position-absolute" data-sticky="top">
     <div class="container-fluid">
       <nav class="navbar navbar-expand-lg navbar-dark">
         <a class="navbar-brand logo-lg" href="index.html">
-          <img alt="Modulo Logo" id="modulogo" class="img-fluid" src="<?= kirby()->urls()->assets() ?>/img/Modulo_logo_Squircle_w_texttext_white.png" width="300" height="30"/>
+          <img alt="Modulo Logo" id="modulogo" class="img-fluid" src="<?= kirby()->urls()->assets() ?>/img/Modulo_logo_Squircle_w_texttext_white.png" width="300" height="30" />
         </a>
-        
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <i class="icon-menu h4"></i>
         </button>
-      
+
         <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
@@ -20,7 +20,7 @@
             <li class="nav-item">
               <a href="<?= page('pricing')->url() ?>" class="nav-link"><?= t('pricing') ?></a>
             </li>
-            
+
             <!-- 
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown">Pages</a>
@@ -63,10 +63,10 @@
           <ul class="navbar-nav">
             <li class="nav-item">
               <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=login" class="text-white">
-              	<?= t('connexion')?>		
+                <?= t('connexion') ?>
               </a>
-              <span>&nbsp;<?= t('ou')?>&nbsp;</span>
-              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=signup" class="text-white"> <?= t('inscription')?></a>
+              <span>&nbsp;<?= t('ou') ?>&nbsp;</span>
+              <a href="https://app.modulo.io/?lang=<?= $kirby->language()->locale(LC_ALL) ?>&view=signup" class="text-white"> <?= t('inscription') ?></a>
             </li>
           </ul>
 
@@ -101,7 +101,7 @@
     <!--end of container-->
   </section>
   <!--end of section-->
-  
+
   <section class="pt-5">
     <div class="container">
       <ul class="feature-list feature-list-lg">
@@ -116,7 +116,7 @@
           </div>
           <!--end of col-->
         </li>
-        
+
       </ul>
     </div>
     <!--end of container-->
@@ -124,7 +124,7 @@
   <!--end of section-->
 
 
-  <!-- présentation fonctionnalités --> 
+  <!-- présentation fonctionnalités -->
   <section class="flush-with-above">
     <div class="container" data-aos="fade-up">
 
@@ -133,7 +133,7 @@
           <span class="title-decorative" data-aos="fade-up" data-aos-delay="10"><?= t('autre_monde') ?></span>
           <h2 class="display-4" data-aos="fade-up" data-aos-delay="100"><?= $page->stepstitle() ?></h2>
           <span class="lead" data-aos="fade-up" data-aos-delay="200">
-          	<?= $page->stepssubtitle() ?>
+            <?= $page->stepssubtitle() ?>
           </span>
 
         </div>
@@ -146,12 +146,12 @@
         <div class="col-md-5 col-7 mb-4">
           <div class="tab-content">
 
-  	        <?php $items = $page->steps()->toStructure();
-      			foreach ($items as $item): ?>
-      	            <div class="tab-pane fade show <?= e($item->indexOf() == 0,'active') ?>" id="content-<?= $item->indexOf() ?>" role="tabpanel">
-      	              <img alt="Image" class="img-fluid w-100" src="<?= kirby()->urls()->assets() ?>/img/<?= $item->img() ?>" />
-      	            </div>
-  	        <?php endforeach ?>	
+            <?php $items = $page->steps()->toStructure();
+            foreach ($items as $item) : ?>
+              <div class="tab-pane fade show <?= e($item->indexOf() == 0, 'active') ?>" id="content-<?= $item->indexOf() ?>" role="tabpanel">
+                <img alt="Image" class="img-fluid w-100" src="<?= kirby()->urls()->assets() ?>/img/<?= $item->img() ?>" />
+              </div>
+            <?php endforeach ?>
 
           </div>
         </div>
@@ -159,27 +159,27 @@
         <div class="col-lg-5 col-md-8 mb-4">
           <ul class="nav nav-cards" role="tablist">
 
-          	<?php
-      			// using the `toStructure()` method, we create a structure collection
-      			$items = $page->steps()->toStructure();
-      			// we can then loop through the entries and render the individual fields
-      			foreach ($items as $item): ?>
-	            <li>
-	              <a class="card <?= e($item->indexOf() == 0,'active') ?>" data-toggle="tab" href="#content-<?= $item->indexOf() ?>" role="tab" aria-controls="content-<?= $item->indexOf() ?>" aria-selected="true">
-	                <div class="card-body">
-	                  <div class="media align-items-center">
-	                    <div class="step-circle mr-4"><?= $item->indexOf()+1 ?></div>
-	                    <div class="media-body">
-	                      <h5><?= $item->title() ?></h5>
-	                      <span>
-	                        <?= $item->detail() ?>
-	                      </span>
-	                    </div>
-	                  </div>
-	                </div>
-	              </a>
-	            </li>
-	        <?php endforeach ?>
+            <?php
+            // using the `toStructure()` method, we create a structure collection
+            $items = $page->steps()->toStructure();
+            // we can then loop through the entries and render the individual fields
+            foreach ($items as $item) : ?>
+              <li>
+                <a class="card <?= e($item->indexOf() == 0, 'active') ?>" data-toggle="tab" href="#content-<?= $item->indexOf() ?>" role="tab" aria-controls="content-<?= $item->indexOf() ?>" aria-selected="true">
+                  <div class="card-body">
+                    <div class="media align-items-center">
+                      <div class="step-circle mr-4"><?= $item->indexOf() + 1 ?></div>
+                      <div class="media-body">
+                        <h5><?= $item->title() ?></h5>
+                        <span>
+                          <?= $item->detail() ?>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </li>
+            <?php endforeach ?>
 
           </ul>
         </div>
@@ -192,9 +192,9 @@
   </section>
   <!--end of section-->
 
-  <!-- visuel --> 
+  <!-- visuel -->
   <section class="flush-with-above p-0 gradient">
-  	<img src="<?= kirby()->urls()->assets() ?>/img/maquette_deroule_1.png" class="img-fluid">
+    <img src="<?= kirby()->urls()->assets() ?>/img/maquette_deroule_1.png" class="img-fluid">
   </section>
 
   <section>
@@ -211,17 +211,17 @@
 
       <ul class="row feature-list">
 
-      	<?php	$items = $page->carac()->toStructure();
-      		foreach ($items as $item): ?>
-  	        <li class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="50">
-  	          <i class="icon-<?= $item->icon() ?> h1 text-<?= $item->color() ?>"></i>
-  	          <h5><?= $item->title() ?></h5>
-  	          <p>
-  	            <?= $item->detail() ?>
-  	          </p>
-  	        </li>
-  	        <!--end of col-->
-  	    <?php endforeach ?>
+        <?php $items = $page->carac()->toStructure();
+        foreach ($items as $item) : ?>
+          <li class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="50">
+            <i class="icon-<?= $item->icon() ?> h1 text-<?= $item->color() ?>"></i>
+            <h5><?= $item->title() ?></h5>
+            <p>
+              <?= $item->detail() ?>
+            </p>
+          </li>
+          <!--end of col-->
+        <?php endforeach ?>
 
       </ul>
       <!--end of row-->
@@ -264,7 +264,7 @@
                 <li>
                   <?= t('custom PDF') ?>
                 </li>
-                <li> 
+                <li>
                   <?= t('AI') ?>
                 </li>
               </ul>
@@ -359,80 +359,80 @@
       <div class="row justify-content-center">
         <div class="col-12">
           <div class="card-columns">
-          <?php foreach (page('pricing')->testimonials()->toStructure()->shuffle()->limit(3) as $test): ?>
-            <div class="card">
+            <?php foreach (page('pricing')->testimonials()->toStructure()->shuffle()->limit(3) as $test) : ?>
+              <div class="card">
                 <div class="card-body">
                   <div class="media pb-2">
-                  <img src="<?= $test->pic()->toFile()->url() ?>" class="mr-2" alt="avatar <?= $test->name() ?>" style="width: 45px;">
-                  <div class="media-body">
-                    <h5 class="card-title pb-0 mb-0"><?= $test->name() ?></h5>
-                    <i class="icon-star text-yellow"></i>
-                    <i class="icon-star text-yellow"></i>
-                    <i class="icon-star text-yellow"></i>
-                    <i class="icon-star text-yellow"></i>
-                    <i class="icon-star text-yellow"></i>
+                    <img src="<?= $test->pic()->toFile()->url() ?>" class="mr-2" alt="avatar <?= $test->name() ?>" style="width: 45px;">
+                    <div class="media-body">
+                      <h5 class="card-title pb-0 mb-0"><?= $test->name() ?></h5>
+                      <i class="icon-star text-yellow"></i>
+                      <i class="icon-star text-yellow"></i>
+                      <i class="icon-star text-yellow"></i>
+                      <i class="icon-star text-yellow"></i>
+                      <i class="icon-star text-yellow"></i>
+                    </div>
                   </div>
-                </div>
                   <p class="card-text"><?= $test->testtext() ?></p>
                 </div>
-             </div>
-          <?php endforeach ?>
+              </div>
+            <?php endforeach ?>
           </div>
         </div>
-        <!-- end of col --> 
+        <!-- end of col -->
         <div class="col-12 text-center mt-2">
           <a href="<?= page('pricing')->url() ?>/#testimonials "><?= t('seemoretests') ?> →</a>
         </div>
       </div>
-      <!-- end of row --> 
+      <!-- end of row -->
     </div>
     <!--end of container-->
   </section>
   <!--end of section-->
 
   <?php if ($kirby->language()->code() == 'fr') : ?>
-  
-	  <!-- Video --> 
-	  <section class="bg-white">
-	    <div class="container" data-aos="fade-up">
-	      <div class="row justify-content-center">
-	        <div class="col-md-8 col-sm-10">
+
+    <!-- Video -->
+    <section class="bg-white">
+      <div class="container" data-aos="fade-up">
+        <div class="row justify-content-center">
+          <div class="col-md-8 col-sm-10">
             <div class="rounded">
               <a href="https://youtu.be/dZSdxq6sPjE" target="_blank">
                 <img src="<?= kirby()->urls()->assets() ?>/img/yt.jpg" class="img-fluid rounded">
               </a>
             </div>
 
-	        </div>
-	        <!--end of col-->
-	      </div>
-	      <!--end of row-->
-	      <div class="row justify-content-center text-center section-outro">
-	        <div class="col-lg-4 col-md-5">
-	          <h6>Pas encore convaincu ?</h6>
-	          <p>Arthur vous présente les fonctionnalités principales de Modulo en (presque) moins de 10 minutes</p>
-	          <a href="https://youtu.be/dZSdxq6sPjE" target="_blank">Regarder sur Youtube &rsaquo;</a>
-	        </div>
-	        <!--end of col-->
-	      </div>
-	      <!--end of row-->
-	    </div>
-	    <!--end of container-->
-	  </section>
-	  <!--end of section-->
-	<?php endif ?>
-  <!-- fin de la section réservée aux français --> 
+          </div>
+          <!--end of col-->
+        </div>
+        <!--end of row-->
+        <div class="row justify-content-center text-center section-outro">
+          <div class="col-lg-4 col-md-5">
+            <h6>Pas encore convaincu ?</h6>
+            <p>Arthur vous présente les fonctionnalités principales de Modulo en (presque) moins de 10 minutes</p>
+            <a href="https://youtu.be/dZSdxq6sPjE" target="_blank">Regarder sur Youtube &rsaquo;</a>
+          </div>
+          <!--end of col-->
+        </div>
+        <!--end of row-->
+      </div>
+      <!--end of container-->
+    </section>
+    <!--end of section-->
+  <?php endif ?>
+  <!-- fin de la section réservée aux français -->
 
-  <section class="bg-white pt-3 pb-3">
-      <div class="container" data-aos="fade-up">
-        <div class="row justify-content-center">
-          <div class="col-md-6">
-            <div class="alert alert-secondary mb-0" role="alert">
-              <?= t('no_cookies') ?>
-            </div>
+  <section id="no-cookies" class="bg-white pt-3 pb-3">
+    <div class="container" data-aos="fade-up">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <div class="alert alert-secondary mb-0" role="alert">
+            <?= t('no_cookies') ?>
           </div>
         </div>
       </div>
+    </div>
   </section>
 
   <?= snippet('footer-callout') ?>
@@ -440,7 +440,7 @@
   <?= snippet('footer-links') ?>
 
 
-  <!-- footer here --> 
+  <!-- footer here -->
 </div>
 
 <?php snippet('footer') ?>
