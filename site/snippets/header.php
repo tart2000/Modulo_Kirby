@@ -52,6 +52,9 @@
 
     mt('send', 'pageview');
   </script>
+
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="66efb045-ce20-45df-bd3c-667957d87730" data-blockingmode="auto" type="text/javascript"></script>
+
 </head>
 
 <body>
