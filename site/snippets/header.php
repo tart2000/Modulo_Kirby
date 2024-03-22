@@ -23,6 +23,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="<?= kirby()->urls()->assets() ?>/favicons/apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="<?= kirby()->urls()->assets() ?>/favicons/favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="<?= kirby()->urls()->assets() ?>/favicons/favicon-16x16.png"/>
+    <link rel="icon" type="image/x-icon" sizes="16x16" href="<?= kirby()->urls()->assets() ?>/favicons/favicon.ico"/>
 
     <!-- Share stuff --> 
     <meta property="og:title" content="le créateur de déroulés pour les facilitateurs"/>

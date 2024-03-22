@@ -55,7 +55,8 @@ return [
     'rgpd' => 'RGPD',
     'partners' => 'Partenaires',
     'cookies' => 'Cookies & traceurs',
-    'no_cookies' => 'Ce site n\'utilise aucun cookies ou traceurs 🍪'
+    'no_cookies' => 'Ce site n\'utilise aucun cookies ou traceurs 🍪',
+    'published' => 'Publié le'
 
   ]
 ];

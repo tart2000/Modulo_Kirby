@@ -1,0 +1,26 @@
+title: Blog
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          title:
+            label: Page top
+            type: text
+          text: 
+            label: Description
+            type: textarea
+
+
+  sidebar:
+    width: 1/3
+    sections:
+      pages:
+        type: pages
+        template: article
+      files:
+        type: files
+

@@ -55,6 +55,7 @@ return [
     'rgpd' => 'Personal data',
     'partners' => 'Partners',
     'cookies' => 'Cookies',
-    'no_cookies' => 'This website doesn\'t use any cookies 🍪' 
+    'no_cookies' => 'This website doesn\'t use any cookies 🍪',
+    'published' => 'Published on'
   ]
 ];

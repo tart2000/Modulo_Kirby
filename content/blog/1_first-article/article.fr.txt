@@ -1,0 +1,23 @@
+Title: Le premier article
+
+----
+
+Intro: Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
+
+----
+
+Text: [{"content":{"text":"<p>Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia restitisset.<\/p>"},"id":"6b7453ca-4912-41fa-9b77-b1dc5408504d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["whimsical.png"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e555cc39-533c-47ea-a6fe-8046e91c824b","isHidden":false,"type":"image"},{"content":{"text":"Saepissime igitur mihi de amicitia cogitanti maxime illud considerandum videri solet, utrum propter imbecillitatem atque inopiam desiderata sit amicitia, ut dandis","citation":""},"id":"b4886fa3-7c21-4072-8230-d4a0fb80c1cf","isHidden":false,"type":"quote"}]
+
+----
+
+Published: 2024-02-06
+
+----
+
+Author:
+
+- 1qMztJz8
+
+----
+
+Headerimg: 

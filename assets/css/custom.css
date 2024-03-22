@@ -28,3 +28,28 @@
 .logo-xl {
 	width: 10rem;
 }
+.bg-cover {
+	min-height: 400px;
+	background-size: cover;
+}
+.article-content p {
+	font-size: 120%;
+}
+.article-content blockquote {
+	border-left: 4px grey solid;
+	padding-left: 20px;
+	font-size: 140%;
+	font-style: italic;
+}
+.avatar-lg > img {
+	height: 7.5rem;
+	width: 7.5rem;
+}
+.avatar-sm > img {
+	height: 3rem;
+	width: 3rem;
+}
+.card-meta {
+	padding: 20px;
+	border-top: solid 1px #F6F6FB;
+}
